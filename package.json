@@ -1,0 +1,15 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "Attempt to create some twitter bot api",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blaldas",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "twit": "^2.2.11"
+  }
+}
